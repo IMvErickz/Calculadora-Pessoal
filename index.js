@@ -1,28 +1,60 @@
-let number1 = prompt("Digite um número");
-let number2 = prompt("Digite um número");
-const formato1 = parseInt(number1);
-const formato2 = parseInt(number2);
+function writeNumber(elementId) {
+    var outputValueTo = document.getElementById('field1');
 
-let operacao1 = formato1 + formato2;
-let operacao2 = formato1 - formato2;
-let operacao3 = formato1 / formato2;
-let operacao4 = formato1 * formato2;
-let operation = prompt("Digite o operador")
+    if (outputValueTo.value == '0' || outputValueTo.value == 'Syntax error') {
+        outputValueTo.value = elementId.textContent;
+    } else {
 
-if (operation == "+") {
-    operation
-    alert(operacao1)
+        outputValueTo.value += elementId.textContent;
+    }
+}
 
+function cleartxt() {
+    document.getElementById('field1').value = '0';
+    document.getElementById('dec').disabled = false;
+}
 
-} else if (operation == "-") {
-    operation
-    alert(operacao2)
-} else if (operation == "/") {
-    operation
-    alert(operacao3)
-} else if (operation == "*") {
-    operation
-    alert(operacao4)
-} //else(operation == ".") {
-//alert("Escolha entre +, -, / e *")
-//}
+function setOperator(elementId) {
+    var outputValueTo = document.getElementById('field1');
+    if (outputValueTo.value == '0' || outputValueTo.value == 'Syntax error') {
+        outputValueTo.value = '0';
+    } else {
+        outputValueTo.value += elementId.textContent;
+        document.getElementById('dec').disabled = false;
+    }
+}
+
+function setDecimal(elementId, status) {
+    var outputValueTo = document.getElementById('field1');
+    outputValueTo.value += elementId.textContent;
+    document.getElementById('dec').disabled = status;
+}
+
+function calculate() {
+
+    try {
+
+        var field1txt = document.getElementById('field1');
+        if (field1txt.value != '') {
+            var calculateResult = eval(field1txt.value);
+            field1txt.value = calculateResult;
+        }
+    } catch (err) {
+
+        field1txt.value = 'error';
+
+    }
+
+}
+
+function removeLastNumber() {
+
+    var field1txt = document.getElementById('field1');
+
+    if (field1txt.value.length == 1 || field1txt.value == '0' || field1txt.value == 'error') {
+        field1txt.value = '0';
+        document.getElementById('dec').disabled = false;
+    } else {
+        field1txt.value = field1txt.value.substring(0, field1txt.value.length - 1);
+    }
+}

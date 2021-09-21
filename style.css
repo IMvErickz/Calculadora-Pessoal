@@ -1,0 +1,82 @@
+#body {
+    background-color: black;
+}
+
+#campo {
+    margin-left: 0%;
+    margin-right: 15rem;
+    border-color: green;
+    border-radius: 50rem;
+}
+
+#n1 {
+    margin-left: 30rem;
+    border-radius: 10rem;
+    block-size: 2rem;
+}
+
+#n2 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n3 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n4 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n5 {
+    margin-left: 30rem;
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n6 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n7 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n8 {
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#n9 {
+    margin-left: 30rem;
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#subtract {
+    margin-left: 30rem;
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#calcular {
+    margin-left: 30rem;
+    border-radius: 5rem;
+    block-size: 2rem;
+}
+
+#field1 {
+    margin-left: 30rem;
+    block-size: 2rem;
+}
+
+#tittle {
+    color: green;
+    margin-left: 30rem;
+    font-size: 50px;
+    block-size: 2rem;
+}
