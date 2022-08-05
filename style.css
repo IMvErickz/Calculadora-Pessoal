@@ -1,9 +1,9 @@
 #body {
-    background-color: red;
+    background-color: black;
 }
 
 #campo {
-    margin-left: 0%;
+    margin-left: 250px;
     margin-right: 15rem;
     border-color: green;
     border-radius: 50rem;
