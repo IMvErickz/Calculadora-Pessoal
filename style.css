@@ -18,6 +18,7 @@
     border-width: 5px;
     border-color: #00BFFF;
     border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n2 {
@@ -28,6 +29,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n3 {
@@ -38,6 +40,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 #n4 {
     border-radius: 10px;
@@ -47,6 +50,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n5 {
@@ -58,6 +62,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n6 {
@@ -68,6 +73,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n7 {
@@ -78,6 +84,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n8 {
@@ -88,6 +95,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n9 {
@@ -99,6 +107,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n0{
@@ -109,6 +118,7 @@
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #n0:hover {
@@ -163,6 +173,7 @@ border-radius: 10px;
     border-width: 5px;
         border-color: #00BFFF;
         border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #dec:hover{
@@ -177,6 +188,7 @@ border-radius: 10px;
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #sum:hover{
@@ -192,6 +204,7 @@ border-radius: 10px;
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #subtract:hover{
@@ -205,6 +218,7 @@ border-radius: 10px;
     border-width: 5px;
         border-color: #00BFFF;
         border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #calcular:hover{
@@ -219,6 +233,7 @@ border-radius: 10px;
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #multi:hover{
@@ -233,6 +248,7 @@ border-radius: 10px;
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #divide:hover{
@@ -247,6 +263,7 @@ border-radius: 10px;
         border-width: 5px;
             border-color: #00BFFF;
             border-style: solid;
+    background-color: #C0C0C0;
 }
 
 #C:hover{
@@ -262,6 +279,7 @@ border-radius: 10px;
     border-width: 5px;
         border-color: #00BFFF;
         border-style: solid;
+        
 
 }
 
