@@ -11,62 +11,123 @@
 
 #n1 {
     margin-left: 30rem;
-    border-radius: 10rem;
+    border-radius: 10px;
     block-size: 2rem;
+    width: 70px;
+    height: 70px;
 }
 
 #n2 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n3 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
-
 #n4 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n5 {
     margin-left: 30rem;
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n6 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n7 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n8 {
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #n9 {
     margin-left: 30rem;
-    border-radius: 5rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
+}
+
+#n0{
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
+}
+
+#dec{
+border-radius: 10px;
     block-size: 2rem;
+    width: 70px;
+    height: 70px;
+}
+
+#sum{
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #subtract {
     margin-left: 30rem;
-    border-radius: 5rem;
-    block-size: 2rem;
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #calcular {
     margin-left: 30rem;
     border-radius: 5rem;
     block-size: 2rem;
+}
+
+#multi{
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
+}
+
+#divide{
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
+}
+
+#C{
+    border-radius: 10px;
+        block-size: 2rem;
+        width: 70px;
+        height: 70px;
 }
 
 #field1 {
