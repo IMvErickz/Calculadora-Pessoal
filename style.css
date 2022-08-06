@@ -15,6 +15,9 @@
     block-size: 2rem;
     width: 70px;
     height: 70px;
+    border-width: 5px;
+    border-color: #00BFFF;
+    border-style: solid;
 }
 
 #n2 {
@@ -22,6 +25,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n3 {
@@ -29,12 +35,18 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 #n4 {
     border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n5 {
@@ -43,6 +55,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n6 {
@@ -50,6 +65,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n7 {
@@ -57,6 +75,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n8 {
@@ -64,6 +85,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n9 {
@@ -72,6 +96,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n0{
@@ -79,6 +106,9 @@
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
 }
 
 #n0:hover {
@@ -130,6 +160,13 @@ border-radius: 10px;
     block-size: 2rem;
     width: 70px;
     height: 70px;
+    border-width: 5px;
+        border-color: #00BFFF;
+        border-style: solid;
+}
+
+#dec:hover{
+    background-color: #FF00FF;
 }
 
 #sum{
@@ -137,6 +174,13 @@ border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
+}
+
+#sum:hover{
+    background-color: #FF00FF;
 }
 
 #subtract {
@@ -145,12 +189,26 @@ border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
+}
+
+#subtract:hover{
+    background-color: #FF00FF;
 }
 
 #calcular {
     margin-left: 40rem;
     border-radius: 5rem;
     block-size: 2rem;
+    border-width: 5px;
+        border-color: #00BFFF;
+        border-style: solid;
+}
+
+#calcular:hover{
+    background-color: #00FA9A;
 }
 
 #multi{
@@ -158,6 +216,13 @@ border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
+}
+
+#multi:hover{
+    background-color: #FF00FF;
 }
 
 #divide{
@@ -165,6 +230,13 @@ border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
+}
+
+#divide:hover{
+    background-color: #FF00FF;
 }
 
 #C{
@@ -172,6 +244,13 @@ border-radius: 10px;
         block-size: 2rem;
         width: 70px;
         height: 70px;
+        border-width: 5px;
+            border-color: #00BFFF;
+            border-style: solid;
+}
+
+#C:hover{
+    background-color: #FF00FF;
 }
 
 #field1 {
@@ -180,6 +259,9 @@ border-radius: 10px;
     background-color: #00BFFF;
     margin-right: 500px;
     width: 250px;
+    border-width: 5px;
+        border-color: #00BFFF;
+        border-style: solid;
 
 }
 
