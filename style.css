@@ -121,6 +121,10 @@
     background-color: #FF00FF;
 }
 
+#n1:hover {
+    background-color: #FF00FF;
+}
+
 #dec{
 border-radius: 10px;
     block-size: 2rem;
