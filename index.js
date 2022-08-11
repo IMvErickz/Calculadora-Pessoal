@@ -58,3 +58,9 @@ function removeLastNumber() {
         field1txt.value = field1txt.value.substring(0, field1txt.value.length - 1);
     }
 }
+
+$("#field1").keypress(function(event) {
+            if (event.keyCode === 13) {
+                $("#calcular").click();
+            }
+        });
